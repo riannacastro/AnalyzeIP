@@ -30,7 +30,6 @@ export default function Lookup() {
       setError(true);
     };
   };
-  console.log(data)
 
   return (
     <Container fluid style={{display: 'flex', justifyContent: 'center', alignItems: 'center', height: 800}}>
